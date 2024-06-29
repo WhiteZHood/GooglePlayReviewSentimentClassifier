@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+spacy
+matplotlib
+setuptools
+nltk
+transformers
+wordcloud
+seaborn>=0.13.0
